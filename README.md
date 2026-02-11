@@ -1,7 +1,4 @@
-# InsightMesh
-
-**An AI mesh where GPT, Gemini, Claude, and Perplexity work as one for your mission.**
-
+# Multi-AI Mesh
 AI 실무 활용 교육을 위한 멀티모델 챗봇 웹앱
 
 ---
